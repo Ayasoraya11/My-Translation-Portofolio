@@ -9,4 +9,4 @@ Welcome to my translation portfolio!Below are examples of my work:
 
 ### Project 2: Academic Journal
 - **Description:** Translation of an academic journal article.
-- **Files:** [View files](link-to-folder-or-file)
+- **Files:** [View files](https://github.com/Ayasoraya11/My-Translation-Portofolio/issues/1)

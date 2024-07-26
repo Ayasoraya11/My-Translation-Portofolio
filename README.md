@@ -3,8 +3,8 @@ Welcome to my translation portfolio!Below are examples of my work:
 
 ## Projects
 
-### Project 1: Technology Document
-- **Description:** Translation of a technical document from English to Indonesian.
+### Project 1: Blog Translate
+- **Description:** Translation of a Blog copywriting from English to Indonesian.
 - **Files:** [View files](link-to-folder-or-file)
 
 ### Project 2: Academic Journal
